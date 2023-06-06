@@ -14,22 +14,22 @@
       "domain_strategy": "ipv4_only",
       "users": [
         {
-          "uuid": "E66E8785-9284-493D-BF48-8232AA3686EA",
+          "uuid": "435a163b-4b44-4f37-acfd-1a00aaa02902",
           "alterId": 0
         }
       ],
       "tls": {
         "enabled": true,
-        "server_name": "xxxxxxx",
+        "server_name": "speed.netfiber.net.il",
         "reality": {
           "enabled": true,
           "handshake": {
-            "server": "xxxxxxx",
+            "server": "speed.netfiber.net.il",
             "server_port": 8080
           },
-          "private_key": "qAdSu-xtsEOlP-xfysiAdiU-NxUBWmxZ63OOnTEMFFk",
+          "private_key": "KINn970IidT4cDbj5pqwGli6_4cEz3x3o-ACGiXJ-Go",
           "short_id": [
-                                  "6ba85179e30d4fc2"
+                                  "70e8118a1c565e01"
           ]
         }
       }
