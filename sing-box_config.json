@@ -20,11 +20,11 @@
       ],
       "tls": {
         "enabled": true,
-        "server_name": "speed.netfiber.net.il",
+        "server_name": "speedtest.interhost.net",
         "reality": {
           "enabled": true,
           "handshake": {
-            "server": "speed.netfiber.net.il",
+            "server": "speedtest.interhost.net",
             "server_port": 8080
           },
           "private_key": "KINn970IidT4cDbj5pqwGli6_4cEz3x3o-ACGiXJ-Go",
