@@ -14,22 +14,22 @@
       "domain_strategy": "ipv4_only",
       "users": [
         {
-          "uuid": "435a163b-4b44-4f37-acfd-1a00aaa02902",
+          "uuid": "0854af95-e283-4a4d-8ca3-d74fc5801b53",
           "alterId": 0
         }
       ],
       "tls": {
         "enabled": true,
-        "server_name": "speedtest.interhost.net",
+        "server_name": "googletagmanager.com",
         "reality": {
           "enabled": true,
           "handshake": {
-            "server": "speedtest.interhost.net",
-            "server_port": 8080
+            "server": "googletagmanager.com",
+            "server_port": 443
           },
-          "private_key": "KINn970IidT4cDbj5pqwGli6_4cEz3x3o-ACGiXJ-Go",
+          "private_key": "aMv2ffRajM3y7-ubThQ0jaU-4vjA4eZBHDUTlSIKy04",
           "short_id": [
-            "70e8118a1c565e01"
+            "55476aba5a6e8ad8"
           ]
         }
       }
